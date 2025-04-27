@@ -1,27 +1,48 @@
-# 📚 Personal Notes
-
-> Catatan pribadi untuk menyimpan website penting dan ide-ide cepat.
-
----
-
-## 🌐 Website List
-
-| 🔗 Nama | 📋 Keterangan | 🌍 Link |
-|:--------|:--------------|:-------|
-| Example Site 1 | Tempat mencari inspirasi desain. | [Kunjungi](https://example1.com) |
-| Example Site 2 | Tools untuk produktivitas harian. | [Kunjungi](https://example2.com) |
-| Example Site 3 | Referensi artikel teknologi. | [Kunjungi](https://example3.com) |
+<div align="center">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="200" alt="Welcome GIF"/>
+  
+  # 📚 Personal Notes
+  > Tempat menyimpan link penting, ide, dan catatan random pribadi! 🚀
+  
+  ![Maintenance](https://img.shields.io/badge/status-active-brightgreen) 
+  ![Last Update](https://img.shields.io/badge/last_update-today-blue)
+</div>
 
 ---
 
-## 📝 Notes
+## 🌟 Website Pilihan
 
-- 🔥 Tips: Selalu backup daftar website penting.
-- ⏰ Reminder: Update minimal sebulan sekali.
-- 📚 Ide: Tambahkan kategori baru jika diperlukan.
+| 🔗 Nama Website | 📋 Catatan Singkat | 🌍 Link |
+| :-------------: | :---------------- | :----- |
+| Figma | Tools desain favorit untuk UI/UX. 🎨 | [Kunjungi](https://figma.com) |
+| Notion | Catatan dan database all-in-one. 📖 | [Kunjungi](https://notion.so) |
+| GitHub | Hosting code project dan kolaborasi. 👨‍💻 | [Kunjungi](https://github.com) |
+| Unsplash | Sumber gambar gratis berkualitas. 📷 | [Kunjungi](https://unsplash.com) |
 
 ---
 
-## 📅 Last Update
+## 📝 Quick Notes
 
-`April 28, 2025`
+- 🔥 **Tips**: Gunakan folder dan tag untuk mengelola link lebih rapi.
+- 📌 **Reminder**: Cek & update link minimal 1x per bulan.
+- 🎯 **Goal**: Kumpulkan minimal 50 referensi keren tahun ini!
+
+---
+
+## 🛠️ Teknologi yang Disukai
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📅 Update Log
+
+- `28 April 2025` — Initial commit & add 4 website favorit.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" alt="Thank you GIF"/>
+  
+  **Terima kasih sudah mampir ke catatan pribadiku! 🚀✨**
+</div>
